@@ -7,14 +7,14 @@ theme:
     repo: fontawesome/brands/github
   palette:
     - scheme: default
-      primary: blue
-      accent: blue
+      primary: pink
+      accent: pink
       toggle:
         icon: material/brightness-7
         name: Cambiar a modo oscuro
     - scheme: slate
-      primary: blue
-      accent: blue
+      primary: pink
+      accent: pink
       toggle:
         icon: material/brightness-4
         name: Cambiar a modo claro
